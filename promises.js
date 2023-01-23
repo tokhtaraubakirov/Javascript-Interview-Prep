@@ -22,3 +22,11 @@ newPromise.then((value) =>{ //Processing promise 4
 setTimeout(() => console.log("I am second")) //3
 
 console.log("I am first") //2
+
+
+// Oups :)
+// I am first
+// I am second
+// Successfully resolved! And I am third
+// I am fourth
+// I am last
